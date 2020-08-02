@@ -12,6 +12,6 @@ Aplicação para obter a informação meteorológica de uma lista de cidades. O 
 ### Imagens dos menus
 
 <p float="left">
-  <img src="images/1.jpeg" width="350" />
-  <img src="images/2.jpeg" width="350" /> 
+  <img src="images/1.png" width="350" />
+  <img src="images/2.png" width="350" /> 
 </p>
