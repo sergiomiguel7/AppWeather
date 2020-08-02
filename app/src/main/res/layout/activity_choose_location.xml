@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/newBackgroundDark"
+    tools:context=".views.ChooseLocationActivity">
+
+    <LinearLayout
+        android:id="@+id/adicionar_linear"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <AutoCompleteTextView
+            style="@style/backbox_style"
+            android:id="@+id/autotext_complete"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:completionHint="Selecionar distrito"
+            android:completionThreshold="1"
+            android:gravity="center"
+            android:hint="@string/escolha_um_distrito"
+            android:textColor="#000000"
+            android:textColorHint="#000000" />
+    </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

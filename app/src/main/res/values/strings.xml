@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppWeather</string>
+    <string name="confirmar_text">Confirmar Região</string>
+    <string name="tempmin_text">TempMin:</string>
+    <string name="tempmax_text">TempMax:</string>
+    <string name="data_text">Data</string>
+    <string name="Dia">Hoje</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="escolha_um_distrito">Pesquise um distrito</string>
+</resources>
